@@ -1,0 +1,97 @@
+.teamTitle{
+    color: black;
+    text-align: center;
+    background-color: gray;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+}
+nav{ display: flex;
+background-color: gray;
+justify-content: center;}
+nav ul{display: flex;
+gap: 30px;
+list-style: none;
+font-size: larger;}
+ nav ul li a {text-decoration: none;
+color: aliceblue;}
+
+.section1{
+background-color: white ;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top:13px; 
+}
+
+.section1 .section1txt{
+    font-size: larger;
+}
+
+footer{
+    background-color:black;
+    padding:80px;
+    color:white;
+ text-align: center;
+ font-size: medium;
+}
+.section2{    font-size: x-large;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-bottom: 3px;
+}
+
+.section0
+{
+    text-align: center;
+    background-image: url(coverimg.jpg);
+height: 500px;
+justify-content: center;
+font-size: xx-large;
+
+}
+.section0{color: white;
+padding-top: 3px;}
+.section0 h1 {justify-content: center;
+color: rgb(233, 74, 0);
+padding: 13px;
+justify-content: center;}
+.footernav{background-color: black;}
+.footernav nav{background-color: black;
+display: block;}
+
+
+
+.projdiv{
+    display: flex;
+    justify-content: center;
+border: 3px grey;
+color: white;
+background-image: url(projcovr.jpg);
+
+}
+
+.projdiv .proj{
+    padding: 45px;
+    border-color: black;
+}
+.projdiv .proj button {background-color: red;
+color: rgb(255, 255, 255);
+font-size: x-large;
+border-radius: 8px;
+}
+.projdiv .proj button a {text-decoration: none;}
+.ourteam .proj button{background-color: red;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    border-radius: 8px;}
+.ourteam .proj{ padding: 45px;
+    border-color: black;}
+.ourteam{ display: flex;
+    justify-content: center;
+border: 3px grey;
+background-image: url(projcovr.jpg);}
